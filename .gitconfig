@@ -1,3 +1,5 @@
 [user]
 	email = kennedymagoto@gmail.com
 	name = kmagoto
+[core]
+	excludesfile = /root/.gitignore_global
